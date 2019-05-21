@@ -1,2 +1,2 @@
-# http://menokusan.github.io
+# http://mendokusan.github.io
 Practicing Jekyll

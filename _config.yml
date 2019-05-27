@@ -1,4 +1,4 @@
-name: A sad nameless website
+name: "A sad nameless website"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
